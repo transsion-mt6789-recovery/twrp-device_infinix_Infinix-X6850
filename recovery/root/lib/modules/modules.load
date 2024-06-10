@@ -170,6 +170,7 @@ tinysys-scmi.ko
 mtk-mbox-mailbox.ko
 irq-dbg.ko
 mtk-socinfo.ko
+sec.ko
 tkv.ko
 tkv_recovery.ko
 tran_rhi.ko

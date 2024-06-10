@@ -18,3 +18,4 @@ TARGET_RECOVERY_DEVICE_MODULES := libinit_Infinix-X6850
 
 # TWRP Configs
 TW_DEVICE_VERSION := X6850_by_rama982
+TW_LOAD_VENDOR_MODULES := "adaptive-ts.ko focaltech_ft3683g.ko gt9916_common.ko awinic_haptic_hv.ko"

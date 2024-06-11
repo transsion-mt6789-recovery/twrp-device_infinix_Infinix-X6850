@@ -1,0 +1,5 @@
+on init
+    insmod /vendor/lib/modules/adaptive-ts.ko
+    insmod /vendor/lib/modules/focaltech_ft3683g.ko
+    insmod /vendor/lib/modules/gt9916_common.ko
+    insmod /vendor/lib/modules/awinic_haptic_hv.ko
